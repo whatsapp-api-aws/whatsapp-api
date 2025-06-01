@@ -1,6 +1,7 @@
 # whatsapp-api
 whatsapp-api
 
+## API: https://rapidapi.com/organization/osint-lite
 
 ```python
 """
